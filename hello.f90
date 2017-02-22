@@ -1,0 +1,6 @@
+PROGRAM helloworld
+IMPLICIT NONE
+
+write(*,*) 'FIRST DIRECTORY. HELLO WORLD'
+
+END PROGRAM helloworld
